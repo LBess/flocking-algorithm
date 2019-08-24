@@ -29,4 +29,4 @@ Each flock has a set of behaviors which can be changed beyond the traditional th
 
 ## Media
 
-![Two Agents Types Avoiding Obstacles](https://github.com/LBess/flocking-algorithm/master/Screenshots/2flocks_obstacles.gif?raw=true)
+![Two Agents Types Avoiding Obstacles](https://github.com/LBess/flocking-algorithm/blob/master/Screenshots/2flocks_obstacles.gif?raw=true)
