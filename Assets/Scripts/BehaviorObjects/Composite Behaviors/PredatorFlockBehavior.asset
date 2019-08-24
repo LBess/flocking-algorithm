@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 888bd1b2604a34d49a5c9a90eb524d03, type: 3}
+  m_Name: PredatorFlockBehavior
+  m_EditorClassIdentifier: 
+  behaviors:
+  - {fileID: 11400000, guid: c77a2b46a8c8f6443a7d7f1d6d0d0c11, type: 2}
+  - {fileID: 11400000, guid: f0bdc86b592d97f4bac11b85be795261, type: 2}
+  - {fileID: 11400000, guid: 0419ab374699c7f43a433d4b6f543bf6, type: 2}
+  - {fileID: 11400000, guid: 37f74eea8574e4c4f85c1f8d873a892b, type: 2}
+  - {fileID: 11400000, guid: 410cb08855d1a2e4ba1c7a2b56b803cf, type: 2}
+  - {fileID: 11400000, guid: d9a6c72e9ec6b454e97d4f81d77c8277, type: 2}
+  weights:
+  - 7
+  - 1
+  - 1
+  - 0.2
+  - 3
+  - 4
